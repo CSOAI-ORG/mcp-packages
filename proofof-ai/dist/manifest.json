@@ -1,0 +1,30 @@
+{
+  "payload": {
+    "serverCard": {
+      "serverInfo": {
+        "name": "@csgaglobal/proofof-ai",
+        "version": "1.0.0"
+      },
+      "tools": [
+        {
+          "name": "@csgaglobal/proofof-ai",
+          "description": "@csgaglobal/proofof-ai tool"
+        }
+      ]
+    },
+    "source": {
+      "type": "direct"
+    },
+    "compatibility": {
+      "platforms": [
+        "linux",
+        "darwin",
+        "win32"
+      ],
+      "runtime": "node"
+    }
+  },
+  "artifacts": {
+    "module": "module.js"
+  }
+}

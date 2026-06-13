@@ -1,0 +1,30 @@
+{
+  "payload": {
+    "serverCard": {
+      "serverInfo": {
+        "name": "@csgaglobal/construction-ai",
+        "version": "1.0.0"
+      },
+      "tools": [
+        {
+          "name": "@csgaglobal/construction-ai",
+          "description": "@csgaglobal/construction-ai tool"
+        }
+      ]
+    },
+    "source": {
+      "type": "direct"
+    },
+    "compatibility": {
+      "platforms": [
+        "linux",
+        "darwin",
+        "win32"
+      ],
+      "runtime": "node"
+    }
+  },
+  "artifacts": {
+    "module": "module.js"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "@meok-ai-labs/quantranet-pqc",
+  "version": "1.0.0",
+  "description": "Post-quantum cryptography toolkit for quantum-safe encryption, key exchange, and digital signatures using NIST-approved algorithms.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "bin": {
+    "quantranet-pqc-mcp": "dist/index.js"
+  },
+  "files": [
+    "dist",
+    "LICENSE"
+  ],
+  "license": "CC0-1.0",
+  "type": "module",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.6.1",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  },
+  "author": "MEOK Labs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meok-ai/mcp-servers",
+    "directory": "packages/quantranet-pqc"
+  },
+  "keywords": [
+    "mcp",
+    "quantum",
+    "cryptography",
+    "pqc",
+    "security"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "@meok-ai-labs/insurance-ai",
+  "version": "1.0.0",
+  "description": "AI governance for insurance technology including underwriting AI fairness, claims automation oversight, and actuarial model compliance.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "bin": {
+    "insurance-ai-mcp": "dist/index.js"
+  },
+  "files": [
+    "dist",
+    "LICENSE"
+  ],
+  "license": "CC0-1.0",
+  "type": "module",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.6.1",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  },
+  "author": "MEOK Labs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meok-ai/mcp-servers",
+    "directory": "packages/insurance-ai"
+  },
+  "keywords": [
+    "mcp",
+    "insurance",
+    "ai-governance",
+    "insurtech",
+    "underwriting"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

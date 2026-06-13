@@ -1,0 +1,39 @@
+{
+  "name": "@meok-ai-labs/thn-global",
+  "version": "1.0.0",
+  "description": "THN Global humanitarian AI governance for disaster response, refugee management, and international aid optimization.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "bin": {
+    "thn-global-mcp": "dist/index.js"
+  },
+  "files": [
+    "dist",
+    "LICENSE"
+  ],
+  "license": "CC0-1.0",
+  "type": "module",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.6.1",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  },
+  "author": "MEOK Labs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meok-ai/mcp-servers",
+    "directory": "packages/thn-global"
+  },
+  "keywords": [
+    "mcp",
+    "humanitarian",
+    "aid",
+    "ai-governance",
+    "disaster-response"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

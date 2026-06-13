@@ -1,0 +1,39 @@
+{
+  "name": "@meok-ai-labs/sports-analytics-ai",
+  "version": "1.0.0",
+  "description": "AI governance for sports analytics including performance prediction, draft evaluation, and fair play compliance.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "bin": {
+    "sports-analytics-ai-mcp": "dist/index.js"
+  },
+  "files": [
+    "dist",
+    "LICENSE"
+  ],
+  "license": "CC0-1.0",
+  "type": "module",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.6.1",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  },
+  "author": "MEOK Labs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meok-ai/mcp-servers",
+    "directory": "packages/sports-analytics-ai"
+  },
+  "keywords": [
+    "mcp",
+    "sports",
+    "analytics",
+    "ai-governance",
+    "fair-play"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

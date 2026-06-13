@@ -1,0 +1,30 @@
+{
+  "payload": {
+    "serverCard": {
+      "serverInfo": {
+        "name": "@csgaglobal/oneos-education",
+        "version": "1.0.0"
+      },
+      "tools": [
+        {
+          "name": "@csgaglobal/oneos-education",
+          "description": "@csgaglobal/oneos-education tool"
+        }
+      ]
+    },
+    "source": {
+      "type": "direct"
+    },
+    "compatibility": {
+      "platforms": [
+        "linux",
+        "darwin",
+        "win32"
+      ],
+      "runtime": "node"
+    }
+  },
+  "artifacts": {
+    "module": "module.js"
+  }
+}

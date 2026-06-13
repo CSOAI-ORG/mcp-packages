@@ -1,0 +1,30 @@
+{
+  "payload": {
+    "serverCard": {
+      "serverInfo": {
+        "name": "@csgaglobal/quantranet-pqc",
+        "version": "1.0.0"
+      },
+      "tools": [
+        {
+          "name": "@csgaglobal/quantranet-pqc",
+          "description": "@csgaglobal/quantranet-pqc tool"
+        }
+      ]
+    },
+    "source": {
+      "type": "direct"
+    },
+    "compatibility": {
+      "platforms": [
+        "linux",
+        "darwin",
+        "win32"
+      ],
+      "runtime": "node"
+    }
+  },
+  "artifacts": {
+    "module": "module.js"
+  }
+}

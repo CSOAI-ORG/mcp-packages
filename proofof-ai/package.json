@@ -1,0 +1,39 @@
+{
+  "name": "@meok-ai-labs/proofof-ai",
+  "version": "1.0.0",
+  "description": "Proof-of-AI verification and attestation framework for validating AI system provenance, model lineage, and governance compliance certification.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "bin": {
+    "proofof-ai-mcp": "dist/index.js"
+  },
+  "files": [
+    "dist",
+    "LICENSE"
+  ],
+  "license": "CC0-1.0",
+  "type": "module",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.6.1",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  },
+  "author": "MEOK Labs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meok-ai/mcp-servers",
+    "directory": "packages/proofof-ai"
+  },
+  "keywords": [
+    "mcp",
+    "proof-of-ai",
+    "ai-governance",
+    "attestation",
+    "verification"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

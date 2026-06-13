@@ -1,0 +1,39 @@
+{
+  "name": "@meok-ai-labs/real-estate-ai",
+  "version": "1.0.0",
+  "description": "AI governance for real estate technology including property valuation, fair housing compliance, and automated underwriting oversight.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "bin": {
+    "real-estate-ai-mcp": "dist/index.js"
+  },
+  "files": [
+    "dist",
+    "LICENSE"
+  ],
+  "license": "CC0-1.0",
+  "type": "module",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.6.1",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  },
+  "author": "MEOK Labs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meok-ai/mcp-servers",
+    "directory": "packages/real-estate-ai"
+  },
+  "keywords": [
+    "mcp",
+    "real-estate",
+    "ai-governance",
+    "fair-housing",
+    "proptech"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

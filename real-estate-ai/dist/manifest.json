@@ -1,0 +1,30 @@
+{
+  "payload": {
+    "serverCard": {
+      "serverInfo": {
+        "name": "@csgaglobal/real-estate-ai",
+        "version": "1.0.0"
+      },
+      "tools": [
+        {
+          "name": "@csgaglobal/real-estate-ai",
+          "description": "@csgaglobal/real-estate-ai tool"
+        }
+      ]
+    },
+    "source": {
+      "type": "direct"
+    },
+    "compatibility": {
+      "platforms": [
+        "linux",
+        "darwin",
+        "win32"
+      ],
+      "runtime": "node"
+    }
+  },
+  "artifacts": {
+    "module": "module.js"
+  }
+}

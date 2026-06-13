@@ -1,0 +1,39 @@
+{
+  "name": "@meok-ai-labs/digital-human-library",
+  "version": "1.0.0",
+  "description": "Governance framework for digital human and AI avatar technologies including deepfake detection, consent management, and digital identity protection.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "bin": {
+    "digital-human-library-mcp": "dist/index.js"
+  },
+  "files": [
+    "dist",
+    "LICENSE"
+  ],
+  "license": "CC0-1.0",
+  "type": "module",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.6.1",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  },
+  "author": "MEOK Labs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meok-ai/mcp-servers",
+    "directory": "packages/digital-human-library"
+  },
+  "keywords": [
+    "mcp",
+    "digital-human",
+    "ai-governance",
+    "avatar",
+    "deepfake-detection"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
