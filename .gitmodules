@@ -1,0 +1,120 @@
+[submodule "ai-economy-infra"]
+	path = ai-economy-infra
+	url = https://github.com/CSOAI-ORG/ai-economy-infra.git
+[submodule "ai-governance"]
+	path = ai-governance
+	url = https://github.com/CSOAI-ORG/ai-governance.git
+[submodule "autonomous-vehicles"]
+	path = autonomous-vehicles
+	url = https://github.com/CSOAI-ORG/autonomous-vehicles.git
+[submodule "aws-cloud"]
+	path = aws-cloud
+	url = https://github.com/CSOAI-ORG/aws-cloud.git
+[submodule "brave-search"]
+	path = brave-search
+	url = https://github.com/CSOAI-ORG/brave-search.git
+[submodule "cloud-security"]
+	path = cloud-security
+	url = https://github.com/CSOAI-ORG/cloud-security.git
+[submodule "compliance-audit"]
+	path = compliance-audit
+	url = https://github.com/CSOAI-ORG/compliance-audit.git
+[submodule "context7-docs"]
+	path = context7-docs
+	url = https://github.com/CSOAI-ORG/context7-docs.git
+[submodule "csv-analytics"]
+	path = csv-analytics
+	url = https://github.com/CSOAI-ORG/csv-analytics.git
+[submodule "data-classification"]
+	path = data-classification
+	url = https://github.com/CSOAI-ORG/data-classification.git
+[submodule "docker-compose"]
+	path = docker-compose
+	url = https://github.com/CSOAI-ORG/docker-compose.git
+[submodule "dsrb-defence"]
+	path = dsrb-defence
+	url = https://github.com/CSOAI-ORG/dsrb-defence.git
+[submodule "fetch-http"]
+	path = fetch-http
+	url = https://github.com/CSOAI-ORG/fetch-http.git
+[submodule "filesystem-ops"]
+	path = filesystem-ops
+	url = https://github.com/CSOAI-ORG/filesystem-ops.git
+[submodule "git-operations"]
+	path = git-operations
+	url = https://github.com/CSOAI-ORG/git-operations.git
+[submodule "github-api"]
+	path = github-api
+	url = https://github.com/CSOAI-ORG/github-api.git
+[submodule "gitlab-api"]
+	path = gitlab-api
+	url = https://github.com/CSOAI-ORG/gitlab-api.git
+[submodule "google-drive"]
+	path = google-drive
+	url = https://github.com/CSOAI-ORG/google-drive.git
+[submodule "incident-response"]
+	path = incident-response
+	url = https://github.com/CSOAI-ORG/incident-response.git
+[submodule "json-transformer"]
+	path = json-transformer
+	url = https://github.com/CSOAI-ORG/json-transformer.git
+[submodule "linear-issues"]
+	path = linear-issues
+	url = https://github.com/CSOAI-ORG/linear-issues.git
+[submodule "mcp-distributor"]
+	path = mcp-distributor
+	url = https://github.com/CSOAI-ORG/mcp-distributor.git
+[submodule "media-ads-ai"]
+	path = media-ads-ai
+	url = https://github.com/CSOAI-ORG/media-ads-ai.git
+[submodule "memory-graph"]
+	path = memory-graph
+	url = https://github.com/CSOAI-ORG/memory-graph.git
+[submodule "notion-workspace"]
+	path = notion-workspace
+	url = https://github.com/CSOAI-ORG/notion-workspace.git
+[submodule "playwright-browser"]
+	path = playwright-browser
+	url = https://github.com/CSOAI-ORG/playwright-browser.git
+[submodule "pmcp-gateway"]
+	path = pmcp-gateway
+	url = https://github.com/CSOAI-ORG/pmcp-gateway.git
+[submodule "policy-engine"]
+	path = policy-engine
+	url = https://github.com/CSOAI-ORG/policy-engine.git
+[submodule "postgres-db"]
+	path = postgres-db
+	url = https://github.com/CSOAI-ORG/postgres-db.git
+[submodule "puppeteer-headless"]
+	path = puppeteer-headless
+	url = https://github.com/CSOAI-ORG/puppeteer-headless.git
+[submodule "red-team-ops"]
+	path = red-team-ops
+	url = https://github.com/CSOAI-ORG/red-team-ops.git
+[submodule "secure-comms"]
+	path = secure-comms
+	url = https://github.com/CSOAI-ORG/secure-comms.git
+[submodule "sentry-monitoring"]
+	path = sentry-monitoring
+	url = https://github.com/CSOAI-ORG/sentry-monitoring.git
+[submodule "sequential-thinking"]
+	path = sequential-thinking
+	url = https://github.com/CSOAI-ORG/sequential-thinking.git
+[submodule "slack-messaging"]
+	path = slack-messaging
+	url = https://github.com/CSOAI-ORG/slack-messaging.git
+[submodule "sqlite-db"]
+	path = sqlite-db
+	url = https://github.com/CSOAI-ORG/sqlite-db.git
+[submodule "threat-intelligence"]
+	path = threat-intelligence
+	url = https://github.com/CSOAI-ORG/threat-intelligence.git
+[submodule "time-zones"]
+	path = time-zones
+	url = https://github.com/CSOAI-ORG/time-zones.git
+[submodule "vercel-deploy"]
+	path = vercel-deploy
+	url = https://github.com/CSOAI-ORG/vercel-deploy.git
+[submodule "vulnerability-scanner"]
+	path = vulnerability-scanner
+	url = https://github.com/CSOAI-ORG/vulnerability-scanner.git
